@@ -1,0 +1,421 @@
+date,description,amount,category
+2026-01-02,Auto rickshaw payment,1450,Transport
+2026-01-02,Bowling with friends,2270,Entertainment
+2026-01-02,Nike shoes,3840,Shopping
+2026-01-03,Gift for friend,740,Shopping
+2026-01-05,Amazon Prime,520,Entertainment
+2026-01-05,Hotstar plan,980,Entertainment
+2026-01-05,Repair work,250,Other
+2026-01-07,Stationery,380,Other
+2026-01-08,Bakery,140,Food
+2026-01-08,Jeans,2570,Shopping
+2026-01-08,Pet food,260,Other
+2026-01-08,Zomato,330,Food
+2026-01-09,Diesel fill,920,Transport
+2026-01-10,Dominos pizza online,310,Food
+2026-01-10,Gift for friend,3380,Shopping
+2026-01-10,Watch,3820,Shopping
+2026-01-10,Wifi bill,1650,Bills
+2026-01-11,Diesel fill,670,Transport
+2026-01-11,Repair work card,1250,Other
+2026-01-12,Pet food online,1280,Other
+2026-01-13,BigBasket order,300,Food
+2026-01-13,Starbucks,790,Food
+2026-01-13,Stationery card,1360,Other
+2026-01-14,Apollo pharmacy,2600,Health
+2026-01-14,Hostel fees payment,1340,Bills
+2026-01-15,FASTag recharge,380,Transport
+2026-01-15,Local restaurant,70,Food
+2026-01-17,DTH recharge,4710,Bills
+2026-01-17,Hospital bill upi,1310,Health
+2026-01-18,Book my show online,2380,Entertainment
+2026-01-19,Bakery online,640,Food
+2026-01-20,Starbucks,600,Food
+2026-01-21,Apollo pharmacy card,3420,Health
+2026-01-21,Parking fee upi,90,Transport
+2026-01-22,BigBasket order,890,Food
+2026-01-22,Parking fee,480,Transport
+2026-01-22,Parking fee,970,Transport
+2026-01-24,Grocery store online,250,Food
+2026-01-24,Health insurance,2620,Health
+2026-01-24,Jeans,4130,Shopping
+2026-01-25,Canteen lunch online,690,Food
+2026-01-26,Cafe Coffee Day,490,Food
+2026-01-27,Bike service,1160,Transport
+2026-01-28,Cafe Coffee Day,840,Food
+2026-01-28,Dominos pizza,380,Food
+2026-01-28,Petrol,390,Transport
+2026-01-30,Bakery,690,Food
+2026-01-30,Laundry,220,Other
+2026-01-30,Laundry,310,Other
+2026-01-30,Toll charge,620,Transport
+2026-01-30,Uber ride online,1240,Transport
+2026-01-31,BigBasket order,170,Food
+2026-01-31,Doctor consultation,2630,Health
+2026-02-01,Local restaurant card,440,Food
+2026-02-01,McDonalds,440,Food
+2026-02-02,FASTag recharge,1010,Transport
+2026-02-02,Swiggy,290,Food
+2026-02-03,Gaming top-up,1930,Entertainment
+2026-02-03,McDonalds,840,Food
+2026-02-03,Meesho order upi,270,Shopping
+2026-02-05,Books from bookstore,1770,Shopping
+2026-02-06,Ajio shirt,1700,Shopping
+2026-02-06,Movie tickets PVR,2140,Entertainment
+2026-02-07,Airtel postpaid,11850,Bills
+2026-02-07,House rent,7920,Bills
+2026-02-07,Lab test,3180,Health
+2026-02-09,Local restaurant,240,Food
+2026-02-09,Yoga class online,730,Health
+2026-02-10,Auto rickshaw upi,670,Transport
+2026-02-10,Photocopy and printing,890,Other
+2026-02-10,Train ticket IRCTC,1120,Transport
+2026-02-11,Donation,1930,Other
+2026-02-11,YouTube premium,2060,Entertainment
+2026-02-12,Nike shoes,3110,Shopping
+2026-02-12,Phone cover,2020,Shopping
+2026-02-12,Tea stall,400,Food
+2026-02-12,Yoga class,2910,Health
+2026-02-14,Netflix subscription,1100,Entertainment
+2026-02-16,Petrol today,1430,Transport
+2026-02-17,Concert pass,1290,Entertainment
+2026-02-17,Mobile recharge,8020,Bills
+2026-02-18,Electricity bill,11620,Bills
+2026-02-19,Meesho order,1240,Shopping
+2026-02-20,Courier charges,180,Other
+2026-02-21,Swiggy,760,Food
+2026-02-22,BigBasket order today,640,Food
+2026-02-23,Amazon Prime card,1510,Entertainment
+2026-02-23,Donation,1260,Other
+2026-02-23,Netflix subscription,1740,Entertainment
+2026-02-24,Books from bookstore,4660,Shopping
+2026-02-25,ATM withdrawal,900,Other
+2026-02-26,Insurance premium,11970,Bills
+2026-02-26,Local restaurant card,640,Food
+2026-02-27,Ajio shirt today,4720,Shopping
+2026-02-27,FASTag recharge,1500,Transport
+2026-02-27,Grocery store online,770,Food
+2026-02-28,Bakery,120,Food
+2026-02-28,Laundry,1230,Other
+2026-02-28,Starbucks card,550,Food
+2026-03-01,Loan EMI,6480,Bills
+2026-03-01,Tea stall card,510,Food
+2026-03-02,Gas cylinder today,3720,Bills
+2026-03-02,House rent upi,9380,Bills
+2026-03-02,Pharmacy medicines,2560,Health
+2026-03-02,Starbucks,870,Food
+2026-03-02,Stationery,1730,Other
+2026-03-02,Zomato,400,Food
+2026-03-03,Metro card recharge,870,Transport
+2026-03-03,Wifi bill card,3020,Bills
+2026-03-03,YouTube premium,760,Entertainment
+2026-03-04,ATM withdrawal,1980,Other
+2026-03-04,Auto rickshaw,700,Transport
+2026-03-04,Doctor consultation online,3030,Health
+2026-03-04,Electricity bill,2800,Bills
+2026-03-04,Jio recharge upi,5310,Bills
+2026-03-04,McDonalds,320,Food
+2026-03-07,Nike shoes,4590,Shopping
+2026-03-07,Wifi bill payment,2490,Bills
+2026-03-09,Bakery,390,Food
+2026-03-09,Health insurance online,3870,Health
+2026-03-09,Rapido bike,260,Transport
+2026-03-09,Stationery,110,Other
+2026-03-10,Tea stall,540,Food
+2026-03-11,Ajio shirt,4680,Shopping
+2026-03-11,Gym membership payment,1850,Health
+2026-03-12,BigBasket order payment,580,Food
+2026-03-12,Bike service online,30,Transport
+2026-03-12,Vegetable market,100,Food
+2026-03-13,Biryani house payment,450,Food
+2026-03-13,Starbucks payment,620,Food
+2026-03-14,Jio recharge,4740,Bills
+2026-03-14,Petrol online,390,Transport
+2026-03-15,DTH recharge,6510,Bills
+2026-03-16,Ajio shirt,2260,Shopping
+2026-03-17,Ola cab,360,Transport
+2026-03-17,Starbucks,360,Food
+2026-03-19,Auto rickshaw,1200,Transport
+2026-03-19,Books from bookstore card,2400,Shopping
+2026-03-19,Doctor consultation,740,Health
+2026-03-19,Laundry,420,Other
+2026-03-19,Wifi bill,4960,Bills
+2026-03-20,Ola cab today,680,Transport
+2026-03-21,Jio recharge,5620,Bills
+2026-03-21,Ola cab,1120,Transport
+2026-03-22,Jio recharge,5320,Bills
+2026-03-22,McDonalds,840,Food
+2026-03-22,Parking fee,1400,Transport
+2026-03-22,Pet food upi,530,Other
+2026-03-22,Phone cover,2250,Shopping
+2026-03-22,Zomato,160,Food
+2026-03-23,Cafe Coffee Day today,810,Food
+2026-03-23,Miscellaneous,1350,Other
+2026-03-23,Tea stall,690,Food
+2026-03-24,Gift for friend,4290,Shopping
+2026-03-24,Jeans today,1570,Shopping
+2026-03-24,Starbucks,620,Food
+2026-03-25,Rapido bike today,1130,Transport
+2026-03-27,Yoga class,420,Health
+2026-03-28,Apollo pharmacy today,2530,Health
+2026-03-28,Laundry,1610,Other
+2026-03-28,Starbucks,530,Food
+2026-03-29,Auto rickshaw today,430,Transport
+2026-03-29,Phone cover,960,Shopping
+2026-03-29,Water bill,300,Bills
+2026-03-29,Zomato online,840,Food
+2026-03-30,House rent,5190,Bills
+2026-03-30,Tea stall,420,Food
+2026-03-30,Yoga class,2180,Health
+2026-03-31,Biryani house online,320,Food
+2026-03-31,Movie tickets PVR,1170,Entertainment
+2026-04-02,Laundry,1580,Other
+2026-04-02,Spotify premium upi,2130,Entertainment
+2026-04-04,ATM withdrawal online,1040,Other
+2026-04-04,Phone cover today,4520,Shopping
+2026-04-05,Stationery,1350,Other
+2026-04-07,Toll charge,480,Transport
+2026-04-07,Train ticket IRCTC,690,Transport
+2026-04-08,Biryani house today,330,Food
+2026-04-08,Headphones,1540,Shopping
+2026-04-08,Milk and eggs,460,Food
+2026-04-09,Myntra clothes today,4350,Shopping
+2026-04-12,Pharmacy medicines,3170,Health
+2026-04-12,Uber ride,760,Transport
+2026-04-13,Amazon Prime,2490,Entertainment
+2026-04-13,Amazon Prime payment,890,Entertainment
+2026-04-13,Rapido bike card,760,Transport
+2026-04-15,Meesho order,1110,Shopping
+2026-04-15,Pet food,670,Other
+2026-04-16,Biryani house,340,Food
+2026-04-16,Canteen lunch,110,Food
+2026-04-16,Local restaurant,450,Food
+2026-04-16,Starbucks,640,Food
+2026-04-17,Petrol,110,Transport
+2026-04-21,Books from bookstore payment,2610,Shopping
+2026-04-21,Uber ride,280,Transport
+2026-04-22,Gaming top-up,760,Entertainment
+2026-04-22,Ola cab,1340,Transport
+2026-04-22,Photocopy and printing,1960,Other
+2026-04-23,Electricity bill,550,Bills
+2026-04-23,Electricity bill online,6360,Bills
+2026-04-24,House rent,1020,Bills
+2026-04-25,DTH recharge,9550,Bills
+2026-04-25,Online course fee,1090,Other
+2026-04-26,Bus pass card,1150,Transport
+2026-04-26,House rent,1580,Bills
+2026-04-26,Loan EMI,10920,Bills
+2026-04-27,Gaming top-up,750,Entertainment
+2026-04-27,Water bill payment,190,Bills
+2026-04-29,DTH recharge online,9090,Bills
+2026-04-29,Parking fee,1160,Transport
+2026-04-30,FASTag recharge card,760,Transport
+2026-04-30,Flipkart purchase,790,Shopping
+2026-04-30,Nike shoes,3510,Shopping
+2026-04-30,Swiggy,820,Food
+2026-05-01,Amazon order,2500,Shopping
+2026-05-01,Biryani house,300,Food
+2026-05-01,Courier charges upi,70,Other
+2026-05-01,FASTag recharge,1310,Transport
+2026-05-02,Ajio shirt,2610,Shopping
+2026-05-03,Starbucks card,480,Food
+2026-05-05,Online course fee online,90,Other
+2026-05-06,Laundry,420,Other
+2026-05-07,Airtel postpaid,5340,Bills
+2026-05-07,Dental checkup,1220,Health
+2026-05-08,ATM withdrawal,1050,Other
+2026-05-09,Insurance premium,7750,Bills
+2026-05-10,Donation,790,Other
+2026-05-10,Uber ride online,700,Transport
+2026-05-10,Uber ride payment,910,Transport
+2026-05-11,Gym membership,1660,Health
+2026-05-11,McDonalds,690,Food
+2026-05-11,Milk and eggs,650,Food
+2026-05-11,Petrol,810,Transport
+2026-05-12,Tea stall,750,Food
+2026-05-13,Airtel postpaid,11380,Bills
+2026-05-13,Netflix subscription,600,Entertainment
+2026-05-15,Toll charge,1010,Transport
+2026-05-17,Insurance premium,8790,Bills
+2026-05-17,Myntra clothes,330,Shopping
+2026-05-18,Electricity bill,1630,Bills
+2026-05-18,Insurance premium,9330,Bills
+2026-05-18,Milk and eggs,70,Food
+2026-05-18,Nike shoes card,1460,Shopping
+2026-05-20,Book my show,310,Entertainment
+2026-05-20,Gaming top-up today,910,Entertainment
+2026-05-20,Gift for friend,2210,Shopping
+2026-05-20,Haircut salon today,1810,Other
+2026-05-20,Hospital bill,3220,Health
+2026-05-20,Milk and eggs,360,Food
+2026-05-20,Starbucks card,490,Food
+2026-05-20,Zomato,380,Food
+2026-05-21,McDonalds,850,Food
+2026-05-21,Movie tickets PVR online,500,Entertainment
+2026-05-22,Health insurance,2910,Health
+2026-05-22,House rent,10350,Bills
+2026-05-22,McDonalds,290,Food
+2026-05-22,Zomato payment,120,Food
+2026-05-23,Bakery,700,Food
+2026-05-23,Bike service,1000,Transport
+2026-05-24,Health insurance,2420,Health
+2026-05-25,Biryani house,900,Food
+2026-05-25,Haircut salon payment,1320,Other
+2026-05-25,Metro card recharge,1030,Transport
+2026-05-25,Mobile recharge upi,11380,Bills
+2026-05-26,McDonalds,800,Food
+2026-05-26,Petrol,900,Transport
+2026-05-26,Uber ride,850,Transport
+2026-05-27,Auto rickshaw online,550,Transport
+2026-05-27,Netflix subscription,990,Entertainment
+2026-05-28,Donation,400,Other
+2026-05-28,Flipkart purchase,2260,Shopping
+2026-05-28,Local restaurant,220,Food
+2026-05-28,Swiggy,630,Food
+2026-05-28,Vegetable market,550,Food
+2026-05-29,Ajio shirt upi,3730,Shopping
+2026-05-30,Eye test and glasses,3790,Health
+2026-05-31,Rapido bike,1440,Transport
+2026-05-31,Wifi bill today,3690,Bills
+2026-06-01,Meesho order,720,Shopping
+2026-06-02,Loan EMI,6440,Bills
+2026-06-02,Swiggy today,690,Food
+2026-06-02,Tea stall,720,Food
+2026-06-03,Netflix subscription,850,Entertainment
+2026-06-04,Gas cylinder,3120,Bills
+2026-06-05,DTH recharge,11160,Bills
+2026-06-05,Miscellaneous card,420,Other
+2026-06-05,Vegetable market,430,Food
+2026-06-06,McDonalds,770,Food
+2026-06-07,Miscellaneous online,830,Other
+2026-06-07,Wifi bill,8910,Bills
+2026-06-08,Dominos pizza online,630,Food
+2026-06-08,Eye test and glasses,330,Health
+2026-06-08,Stationery,940,Other
+2026-06-08,Toll charge upi,1330,Transport
+2026-06-08,Watch,3920,Shopping
+2026-06-09,Local restaurant,440,Food
+2026-06-10,Book my show,330,Entertainment
+2026-06-10,Books from bookstore,2320,Shopping
+2026-06-10,Electricity bill,6620,Bills
+2026-06-10,Insurance premium,3900,Bills
+2026-06-12,Auto rickshaw today,1340,Transport
+2026-06-12,Books from bookstore upi,4150,Shopping
+2026-06-12,Tea stall card,160,Food
+2026-06-13,Bakery,210,Food
+2026-06-13,Books from bookstore online,1420,Shopping
+2026-06-13,Pet food payment,1740,Other
+2026-06-14,Myntra clothes,560,Shopping
+2026-06-14,Online course fee payment,1290,Other
+2026-06-15,Book my show,340,Entertainment
+2026-06-16,Movie tickets PVR,1160,Entertainment
+2026-06-16,Starbucks,290,Food
+2026-06-17,Bakery online,280,Food
+2026-06-17,Jio recharge,8430,Bills
+2026-06-18,Meesho order,610,Shopping
+2026-06-19,Concert pass,2000,Entertainment
+2026-06-20,Hostel fees online,11290,Bills
+2026-06-22,House rent,2680,Bills
+2026-06-23,Toll charge today,1140,Transport
+2026-06-25,Jio recharge,11090,Bills
+2026-06-25,Local restaurant card,660,Food
+2026-06-25,Ola cab,100,Transport
+2026-06-26,Laundry,1420,Other
+2026-06-27,Book my show,730,Entertainment
+2026-06-27,Spotify premium,820,Entertainment
+2026-06-28,DTH recharge,5820,Bills
+2026-06-28,Milk and eggs,760,Food
+2026-06-28,Rapido bike,790,Transport
+2026-06-29,Gym membership today,3070,Health
+2026-06-29,Metro card recharge,1410,Transport
+2026-06-29,Toll charge card,180,Transport
+2026-06-30,Dominos pizza payment,240,Food
+2026-06-30,Donation today,910,Other
+2026-06-30,Haircut salon,170,Other
+2026-07-02,Hospital bill,3400,Health
+2026-07-02,Online course fee today,200,Other
+2026-07-04,Insurance premium card,10840,Bills
+2026-07-04,Milk and eggs,180,Food
+2026-07-04,Online course fee,1790,Other
+2026-07-04,Theme park entry,220,Entertainment
+2026-07-05,Toll charge,260,Transport
+2026-07-06,Eye test and glasses today,1530,Health
+2026-07-06,Meesho order,4800,Shopping
+2026-07-07,Myntra clothes,2700,Shopping
+2026-07-10,Pharmacy medicines,2040,Health
+2026-07-10,Stationery upi,1120,Other
+2026-07-10,YouTube premium,1840,Entertainment
+2026-07-12,Bakery card,280,Food
+2026-07-14,Gift for friend,2720,Shopping
+2026-07-15,Hotstar plan,530,Entertainment
+2026-07-15,Jio recharge,1060,Bills
+2026-07-15,Metro card recharge,400,Transport
+2026-07-15,Train ticket IRCTC,430,Transport
+2026-07-16,Insurance premium payment,6930,Bills
+2026-07-16,Local restaurant,750,Food
+2026-07-16,Online course fee,840,Other
+2026-07-19,Headphones upi,4790,Shopping
+2026-07-19,Rapido bike,1390,Transport
+2026-07-20,Laundry,930,Other
+2026-07-21,Gym membership online,2360,Health
+2026-07-22,Bakery,180,Food
+2026-07-22,Book my show,1610,Entertainment
+2026-07-22,Metro card recharge payment,230,Transport
+2026-07-23,Books from bookstore,3570,Shopping
+2026-07-23,Gas cylinder,10800,Bills
+2026-07-24,Online course fee card,500,Other
+2026-07-25,Dominos pizza,460,Food
+2026-07-25,Gas cylinder,6750,Bills
+2026-07-25,Haircut salon,320,Other
+2026-07-25,Meesho order,600,Shopping
+2026-07-25,Miscellaneous,1870,Other
+2026-07-26,Airtel postpaid,9720,Bills
+2026-07-26,Book my show,580,Entertainment
+2026-07-26,Nike shoes,3340,Shopping
+2026-07-26,Pharmacy medicines upi,1330,Health
+2026-07-28,BigBasket order,470,Food
+2026-07-28,Flipkart purchase online,530,Shopping
+2026-07-29,Phone cover payment,2370,Shopping
+2026-07-30,DTH recharge online,7720,Bills
+2026-07-30,Diesel fill,290,Transport
+2026-08-01,Donation,1270,Other
+2026-08-02,Bike service card,1010,Transport
+2026-08-02,Cafe Coffee Day,370,Food
+2026-08-02,Stationery,760,Other
+2026-08-03,Amazon order today,3020,Shopping
+2026-08-03,Vegetable market,70,Food
+2026-08-04,Nike shoes,3260,Shopping
+2026-08-05,ATM withdrawal,820,Other
+2026-08-06,DTH recharge today,8260,Bills
+2026-08-06,Repair work,280,Other
+2026-08-07,Airtel postpaid,2910,Bills
+2026-08-07,Laundry,1790,Other
+2026-08-07,Ola cab,1020,Transport
+2026-08-09,Biryani house upi,150,Food
+2026-08-09,Doctor consultation,3440,Health
+2026-08-09,Flipkart purchase payment,3450,Shopping
+2026-08-10,Courier charges,1480,Other
+2026-08-12,Haircut salon,1690,Other
+2026-08-12,Jeans today,3390,Shopping
+2026-08-13,Dominos pizza,880,Food
+2026-08-13,Watch,4180,Shopping
+2026-08-14,Bowling with friends,1450,Entertainment
+2026-08-14,Dominos pizza,540,Food
+2026-08-15,Jio recharge,10520,Bills
+2026-08-15,Tea stall,150,Food
+2026-08-15,Toll charge,1370,Transport
+2026-08-16,Headphones,3850,Shopping
+2026-08-17,YouTube premium,820,Entertainment
+2026-08-18,Bike service card,440,Transport
+2026-08-19,Zomato,660,Food
+2026-08-20,FASTag recharge,1260,Transport
+2026-08-20,Hospital bill,3640,Health
+2026-08-21,Grocery store,430,Food
+2026-08-21,Train ticket IRCTC payment,410,Transport
+2026-08-26,Airtel postpaid,9060,Bills
+2026-08-26,Bakery,300,Food
+2026-08-26,Cafe Coffee Day,300,Food
+2026-08-27,Canteen lunch,620,Food
+2026-08-28,Petrol,1200,Transport
+2026-08-28,Rapido bike,870,Transport
+2026-08-28,Stationery,1760,Other

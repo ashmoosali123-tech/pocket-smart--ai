@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.9762,
+  "macro_f1": 0.9652,
+  "train_size": 336,
+  "test_size": 84,
+  "report": "               precision    recall  f1-score   support\n\n        Bills       0.86      1.00      0.92        12\nEntertainment       1.00      0.71      0.83         7\n         Food       1.00      1.00      1.00        21\n       Health       1.00      1.00      1.00         6\n        Other       1.00      1.00      1.00        12\n     Shopping       1.00      1.00      1.00        12\n    Transport       1.00      1.00      1.00        14\n\n     accuracy                           0.98        84\n    macro avg       0.98      0.96      0.97        84\n weighted avg       0.98      0.98      0.98        84\n"
+}
